@@ -1,5 +1,5 @@
-import streamlit
-import pandas
-import numpy
-import pdfplumber
-import matplotlib
+streamlit;
+pandas
+numpy
+pdfplumber
+matplotlib
