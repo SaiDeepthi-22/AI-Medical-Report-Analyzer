@@ -1,0 +1,22 @@
+Patient Name: Rahul Sharma
+Age: 35
+Gender: Male
+
+Test Results:
+
+Hemoglobin 11.2 g/dL
+WBC 12000 cells/mcL
+RBC 4.8 million cells/mcL
+Platelets 210000 platelets/mcL
+
+Glucose 165 mg/dL
+Cholesterol 210 mg/dL
+HDL 35 mg/dL
+LDL 130 mg/dL
+Triglycerides 180 mg/dL
+
+Creatinine 1.0 mg/dL
+Urea 18 mg/dL
+
+Sodium 140 mmol/L
+Potassium 4.2 mmol/L
