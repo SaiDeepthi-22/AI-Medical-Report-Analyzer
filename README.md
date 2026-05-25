@@ -93,7 +93,7 @@ AI-Medical-Report-Analyzer/
 │   ├── Normal_Clinical_Report.pdf
 │   └── REPORT-1.txt
 │
-└── screenshots/            # App preview images
+└── screenshots/            
     ├── login.png
     ├── dashboard.png
     └── results.png
