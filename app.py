@@ -89,9 +89,9 @@ def set_background(image_file):
     }}
 
     div[role="radiogroup"] label {{
-        color:white !important;
-        font-size:20px !important;
-        font-weight:bold !important;
+    color:black !important;
+    font-size:16px !important;
+    font-weight:normal !important;
     }}
 
     div[role="radiogroup"] label:hover {{
@@ -292,7 +292,7 @@ if text:
                 return "background-color:#e6fffa;color:#008080"
 
             st.dataframe(
-                df.style.applymap(color_status,subset=["Status"]),
+                df.style.map(color_status,subset=["Status"]),
                 use_container_width=True
             )
 
