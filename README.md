@@ -70,6 +70,10 @@ python -m pip install -r requirements.txt
 ### 3. Run the app
 ```bash
 python streamlit run app.py
+or
+streamlit run app.py
+or
+python -m streamlit run app.py
 ```
 
 ### 4. Test with sample reports
